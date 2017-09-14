@@ -12,5 +12,3 @@ add a lesson txt.
 change in 12:12.
 
 add to github.com.
-
-change in 9.14
